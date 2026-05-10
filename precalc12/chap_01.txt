@@ -1,0 +1,66 @@
+Relations
+
+- A relation R is a set of ordered pairs
+- The domain of R is the set of first coordinates of the ordered pairs
+- the range R is the the set of second coordinates of the ordered pairs
+
+- A relation can be represented in different ways
+    - a set of ordered pairs
+    - a table of values
+    - a graph
+    - an equation
+
+    y is equal to the square root of x where x is all integers that are perfect squares between (0, 16)
+    y = 0, x = 0
+    y = 1, x = 1
+    y = 2, x = 4
+    y = 3, x = 9
+    y = 4, x = 16
+
+for y = 2x + 1
+Domain = [0, -2, -4, 2, 4]
+Range = [1, -3, -7, 5, 9]
+
+What is the purpose of joining the points with a line?
+
+- joining the points shows the relations include more ordered pairs not just the ones for this set of values 
+
+
+Conventions
+- no endpoints means no termination for graph
+- open dot means approaches and gets infinitely close
+- always read inequalities from the variable to the number x >= 7 or 7 <= x is "x is greater than or equal to 7"
+
+
+Relation as expressed by x,y graph
+
+ 
+Domain: set of x values represented by the graph
+    - always start at left most point amd trace to right most point 
+    - -6 < x <= 7 (here -6 is an open dot and 7 is a closed dot so we can get to 7 but we can never get to -6)
+
+Range: set of y values represented by the graph
+    - can start at max or min
+    -  - 4 <= y < 7
+
+
+Domain: -3 <= x <= 8
+Range: -2 <= y <= 8
+
+
+What do functions do?
+    - for every possible input value there is one output value
+    - a function is a special kind of relation
+    - there is a difference between functions and relations
+
+Defintion of a function:
+    - a function is a relation which assigns to each element in the domain(x) at single element in the range(y)
+    - for every value of the domain there is one and one value of the range 
+    - if two points can be joined by a vertical line then the graph is not a function
+
+Is an equation a function?
+    - if an x value can be found that produces more than one value of y then the equation is not a function 
+    - y = x_2 (if an equation is solved for y it is a function)
+    - y_2 = x (here to simplify for y we get y = +/- the square root of x so there is two values of y for x (x = 4 is solved by y = 2 and y = -2))
+    if y is sqaured or if x = a real number it's not a function
+    
